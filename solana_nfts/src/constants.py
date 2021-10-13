@@ -1,0 +1,1 @@
+TOKEN_VIEWER_BASE_URL = "https://cryptomafia-api-nft-viewer-owivntwoka-uk.a.run.app/"
