@@ -32,7 +32,7 @@ Query your Metaplex Spl Tokens with easy to use apis.
 ## II. Install <a name="install"></a>
 
 ```
-pip install solana_nfts`
+pip install solana_nfts
 ```
 
 ## III. Usage <a name="usage"></a>
