@@ -3,7 +3,7 @@
 <br/>
 <p align="center">
     <a href="https://github.com/Cryptomafiagg/solana-nfts-python">
-        <img src="https://github.com/Cryptomafiagg/solana-nfts-python/blob/87a54ea2aca920c2a8583f1454ef71d21284d756/assets/doges.gif" alt="" width="150" height="150">
+        <img src="https://github.com/Cryptomafiagg/solana-nfts-python/blob/7d694afa42e28a9ca8bcd29bf763e750277046d6/assets/doges.gif" alt="" width="150" height="150">
     </a>
     <h3 align="center">
         Solana-Nfts-Python
