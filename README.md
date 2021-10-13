@@ -1,4 +1,5 @@
-![Twitter][twitter]
+[![Twitter][twitter]](https://twitter.com/cryptomafiagg)
+[![Pypi][pypi]](https://pypi.org/project/solana-nfts/)
 
 <br/>
 <p align="center">
@@ -24,6 +25,7 @@
 - [III. Usage](#usage)
 
 [twitter]: https://img.shields.io/twitter/follow/CryptomafiaGG?style=social
+[pypi]: https://img.shields.io/pypi/v/solana_nfts
 
 ## I. Overview <a name="overview"></a>
 
