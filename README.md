@@ -45,7 +45,7 @@ from solana_nfts import Client`
 
 nft_client = Client()
 
-address = "<YOUR_SOLANA_PUBLIC_KEY>"
+address = "<YOUR_SOLANA_PUBLIC_ADDRESS>"
 
 nfts = nft_client.fetch_nfts_from_wallet_address(address)
 
