@@ -23,6 +23,7 @@
 - [I. Overview](#overview)
 - [II. Install](#install)
 - [III. Usage](#usage)
+- [IV. Notes](#notes)
 
 [twitter]: https://img.shields.io/twitter/follow/CryptomafiaGG?style=social
 [pypi]: https://img.shields.io/pypi/v/solana_nfts
@@ -34,7 +35,7 @@ Query your Metaplex Spl Tokens with easy to use apis.
 ## II. Install <a name="install"></a>
 
 ```
-pip install solana_nfts
+pip install solana_nfts==0.0.5
 ```
 
 ## III. Usage <a name="usage"></a>
@@ -189,9 +190,14 @@ Each element of this array contains a json object with the following schema:
 
 ```
 
-Note; We shall note that the shape of "arweave_metadata" will vary depending on how the nft was defined.
+## IV. Notes <a name="usage"></a>
+
+1) The shape of "arweave_metadata" will vary depending on how the nft was defined.
+2) TODO: Finish Go routines for the cryptomafia api.
+3) TODO: Parse json into python classes
 
 <p align="center">
     Designed with ❤️ by Sieve Labs
 </p>
-```
+
+
