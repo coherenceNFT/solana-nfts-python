@@ -55,9 +55,9 @@ The following returns an array `nfts` of json objects.
 
 Each element of this array contains a json object with the following schema:
 
-<li> The `arweave_metadata` key gives us the arweave metadata for the nft.</li>
+<li> The `arweave_metadata` key gives us a json object containing the arweave metadata for the nft.</li>
 
-<li>The `token_metadata` key gives us the solana token metadata for the nft.</li>
+<li>The `token_metadata` key gives us a json object containing the solana token metadata for the nft.</li>
 
 ```
 
