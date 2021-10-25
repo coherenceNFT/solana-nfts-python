@@ -142,7 +142,7 @@ Each element of this array contains a json object with the following schema:
                 }
             ]
         },
-        "seller_fee_basis_points": 500,
+        "seller_fee_basis_points": 100,
         "symbol": ""
     },
     "token_metadata": {
